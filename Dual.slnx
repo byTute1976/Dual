@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Dual.Api/Dual.Api.csproj" />
+  <Project Path="Dual.Shared/Dual.Shared.csproj" />
+</Solution>

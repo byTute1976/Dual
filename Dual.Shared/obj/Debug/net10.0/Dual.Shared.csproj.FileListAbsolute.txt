@@ -1,0 +1,12 @@
+D:\Privat\Programacio\Git\Dual\Dual.Shared\bin\Debug\net10.0\Dual.Shared.deps.json
+D:\Privat\Programacio\Git\Dual\Dual.Shared\bin\Debug\net10.0\Dual.Shared.dll
+D:\Privat\Programacio\Git\Dual\Dual.Shared\bin\Debug\net10.0\Dual.Shared.pdb
+D:\Privat\Programacio\Git\Dual\Dual.Shared\obj\Debug\net10.0\Dual.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Privat\Programacio\Git\Dual\Dual.Shared\obj\Debug\net10.0\Dual.Shared.AssemblyInfoInputs.cache
+D:\Privat\Programacio\Git\Dual\Dual.Shared\obj\Debug\net10.0\Dual.Shared.AssemblyInfo.cs
+D:\Privat\Programacio\Git\Dual\Dual.Shared\obj\Debug\net10.0\Dual.Shared.csproj.CoreCompileInputs.cache
+D:\Privat\Programacio\Git\Dual\Dual.Shared\obj\Debug\net10.0\Dual.Shared.sourcelink.json
+D:\Privat\Programacio\Git\Dual\Dual.Shared\obj\Debug\net10.0\Dual.Shared.dll
+D:\Privat\Programacio\Git\Dual\Dual.Shared\obj\Debug\net10.0\refint\Dual.Shared.dll
+D:\Privat\Programacio\Git\Dual\Dual.Shared\obj\Debug\net10.0\Dual.Shared.pdb
+D:\Privat\Programacio\Git\Dual\Dual.Shared\obj\Debug\net10.0\ref\Dual.Shared.dll
