@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "D:\\Privat\\Programacio\\Git\\Dual\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43D65E1E-5248-4CCF-9E8F-6FDC5001C4FD}|Dual.Api\\Dual.Api.csproj|d:\\privat\\programacio\\git\\dual\\dual.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43D65E1E-5248-4CCF-9E8F-6FDC5001C4FD}|Dual.Api\\Dual.Api.csproj|solutionrelative:dual.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D25BB9C3-A782-26D0-9FBB-463EF1ABA56A}|Dual.Api\\Dual.Api.csproj|d:\\privat\\programacio\\git\\dual\\dual.api\\data\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25BB9C3-A782-26D0-9FBB-463EF1ABA56A}|Dual.Api\\Dual.Api.csproj|solutionrelative:dual.api\\data\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43D65E1E-5248-4CCF-9E8F-6FDC5001C4FD}|Dual.Api\\Dual.Api.csproj|d:\\privat\\programacio\\git\\dual\\dual.api\\controllers\\tutorsescolacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43D65E1E-5248-4CCF-9E8F-6FDC5001C4FD}|Dual.Api\\Dual.Api.csproj|solutionrelative:dual.api\\controllers\\tutorsescolacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D25BB9C3-A782-26D0-9FBB-463EF1ABA56A}|Dual.Api\\Dual.Api.csproj|d:\\privat\\programacio\\git\\dual\\dual.api\\controllers\\ciclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25BB9C3-A782-26D0-9FBB-463EF1ABA56A}|Dual.Api\\Dual.Api.csproj|solutionrelative:dual.api\\controllers\\ciclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43D65E1E-5248-4CCF-9E8F-6FDC5001C4FD}|Dual.Api\\Dual.Api.csproj|d:\\privat\\programacio\\git\\dual\\dual.api\\controllers\\ciclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43D65E1E-5248-4CCF-9E8F-6FDC5001C4FD}|Dual.Api\\Dual.Api.csproj|solutionrelative:dual.api\\controllers\\ciclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E83248CB-B0A2-1092-4C60-49BC485BD629}|Dual.Shared\\Dual.Shared.csproj|d:\\privat\\programacio\\git\\dual\\dual.shared\\models\\empresa\\tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83248CB-B0A2-1092-4C60-49BC485BD629}|Dual.Shared\\Dual.Shared.csproj|solutionrelative:dual.shared\\models\\empresa\\tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB773100-E020-4CF3-8CA2-2570E28EDFD2}|Dual.Shared\\Dual.Shared.csproj|d:\\privat\\programacio\\git\\dual\\dual.shared\\models\\tcicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB773100-E020-4CF3-8CA2-2570E28EDFD2}|Dual.Shared\\Dual.Shared.csproj|solutionrelative:dual.shared\\models\\tcicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E83248CB-B0A2-1092-4C60-49BC485BD629}|Dual.Shared\\Dual.Shared.csproj|d:\\privat\\programacio\\git\\dual\\dual.shared\\models\\empresa\\cicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83248CB-B0A2-1092-4C60-49BC485BD629}|Dual.Shared\\Dual.Shared.csproj|solutionrelative:dual.shared\\models\\empresa\\cicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43D65E1E-5248-4CCF-9E8F-6FDC5001C4FD}|Dual.Api\\Dual.Api.csproj|d:\\privat\\programacio\\git\\dual\\dual.api\\models\\dualcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43D65E1E-5248-4CCF-9E8F-6FDC5001C4FD}|Dual.Api\\Dual.Api.csproj|solutionrelative:dual.api\\models\\dualcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB773100-E020-4CF3-8CA2-2570E28EDFD2}|Dual.Shared\\Dual.Shared.csproj|d:\\privat\\programacio\\git\\dual\\dual.shared\\models\\ttutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB773100-E020-4CF3-8CA2-2570E28EDFD2}|Dual.Shared\\Dual.Shared.csproj|solutionrelative:dual.shared\\models\\ttutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D25BB9C3-A782-26D0-9FBB-463EF1ABA56A}|Dual.Api\\Dual.Api.csproj|d:\\privat\\programacio\\git\\dual\\dual.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25BB9C3-A782-26D0-9FBB-463EF1ABA56A}|Dual.Api\\Dual.Api.csproj|solutionrelative:dual.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,79 +43,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Dual.Api\\Program.cs",
-              "ToolTip": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Api\\Program.cs",
-              "RelativeToolTip": "Dual.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Title": "Sql.cs",
+              "DocumentMoniker": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Api\\Data\\Sql.cs",
+              "RelativeDocumentMoniker": "Dual.Api\\Data\\Sql.cs",
+              "ToolTip": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Api\\Data\\Sql.cs",
+              "RelativeToolTip": "Dual.Api\\Data\\Sql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T19:12:51.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TTutor.cs",
-              "DocumentMoniker": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Shared\\Models\\TTutor.cs",
-              "RelativeDocumentMoniker": "Dual.Shared\\Models\\TTutor.cs",
-              "ToolTip": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Shared\\Models\\TTutor.cs",
-              "RelativeToolTip": "Dual.Shared\\Models\\TTutor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T18:39:29.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TCicle.cs",
-              "DocumentMoniker": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Shared\\Models\\TCicle.cs",
-              "RelativeDocumentMoniker": "Dual.Shared\\Models\\TCicle.cs",
-              "ToolTip": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Shared\\Models\\TCicle.cs",
-              "RelativeToolTip": "Dual.Shared\\Models\\TCicle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T18:34:20.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TutorsEscolaController.cs",
-              "DocumentMoniker": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Api\\Controllers\\TutorsEscolaController.cs",
-              "RelativeDocumentMoniker": "Dual.Api\\Controllers\\TutorsEscolaController.cs",
-              "ToolTip": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Api\\Controllers\\TutorsEscolaController.cs",
-              "RelativeToolTip": "Dual.Api\\Controllers\\TutorsEscolaController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAAC4AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T18:22:21.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DualContext.cs",
-              "DocumentMoniker": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Api\\Models\\DualContext.cs",
-              "RelativeDocumentMoniker": "Dual.Api\\Models\\DualContext.cs",
-              "ToolTip": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Api\\Models\\DualContext.cs",
-              "RelativeToolTip": "Dual.Api\\Models\\DualContext.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAwDEAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T18:08:00.825Z",
+              "WhenOpened": "2026-02-25T10:00:39.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Tutor.cs",
+              "DocumentMoniker": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Shared\\Models\\Empresa\\Tutor.cs",
+              "RelativeDocumentMoniker": "Dual.Shared\\Models\\Empresa\\Tutor.cs",
+              "ToolTip": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Shared\\Models\\Empresa\\Tutor.cs",
+              "RelativeToolTip": "Dual.Shared\\Models\\Empresa\\Tutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:51:58.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cicle.cs",
+              "DocumentMoniker": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Shared\\Models\\Empresa\\Cicle.cs",
+              "RelativeDocumentMoniker": "Dual.Shared\\Models\\Empresa\\Cicle.cs",
+              "ToolTip": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Shared\\Models\\Empresa\\Cicle.cs",
+              "RelativeToolTip": "Dual.Shared\\Models\\Empresa\\Cicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:51:53.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CiclesController.cs",
               "DocumentMoniker": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Api\\Controllers\\CiclesController.cs",
               "RelativeDocumentMoniker": "Dual.Api\\Controllers\\CiclesController.cs",
               "ToolTip": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Api\\Controllers\\CiclesController.cs",
               "RelativeToolTip": "Dual.Api\\Controllers\\CiclesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T16:08:09.562Z",
+              "WhenOpened": "2026-02-25T09:51:45.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Dual.Api\\Program.cs",
+              "ToolTip": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Api\\Program.cs",
+              "RelativeToolTip": "Dual.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T08:06:00.835Z",
               "EditorCaption": ""
             }
           ]

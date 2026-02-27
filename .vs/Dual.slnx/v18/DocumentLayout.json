@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Privat\\Programacio\\Git\\Dual\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D25BB9C3-A782-26D0-9FBB-463EF1ABA56A}|Dual.Api\\Dual.Api.csproj|d:\\privat\\programacio\\git\\dual\\dual.api\\data\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25BB9C3-A782-26D0-9FBB-463EF1ABA56A}|Dual.Api\\Dual.Api.csproj|solutionrelative:dual.api\\data\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25BB9C3-A782-26D0-9FBB-463EF1ABA56A}|Dual.Api\\Dual.Api.csproj|d:\\privat\\programacio\\git\\dual\\dual.api\\controllers\\ciclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25BB9C3-A782-26D0-9FBB-463EF1ABA56A}|Dual.Api\\Dual.Api.csproj|solutionrelative:dual.api\\controllers\\ciclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83248CB-B0A2-1092-4C60-49BC485BD629}|Dual.Shared\\Dual.Shared.csproj|d:\\privat\\programacio\\git\\dual\\dual.shared\\models\\empresa\\tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83248CB-B0A2-1092-4C60-49BC485BD629}|Dual.Shared\\Dual.Shared.csproj|solutionrelative:dual.shared\\models\\empresa\\tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83248CB-B0A2-1092-4C60-49BC485BD629}|Dual.Shared\\Dual.Shared.csproj|d:\\privat\\programacio\\git\\dual\\dual.shared\\models\\empresa\\cicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83248CB-B0A2-1092-4C60-49BC485BD629}|Dual.Shared\\Dual.Shared.csproj|solutionrelative:dual.shared\\models\\empresa\\cicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25BB9C3-A782-26D0-9FBB-463EF1ABA56A}|Dual.Api\\Dual.Api.csproj|d:\\privat\\programacio\\git\\dual\\dual.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25BB9C3-A782-26D0-9FBB-463EF1ABA56A}|Dual.Api\\Dual.Api.csproj|solutionrelative:dual.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +39,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sql.cs",
+              "DocumentMoniker": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Api\\Data\\Sql.cs",
+              "RelativeDocumentMoniker": "Dual.Api\\Data\\Sql.cs",
+              "ToolTip": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Api\\Data\\Sql.cs",
+              "RelativeToolTip": "Dual.Api\\Data\\Sql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:00:39.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tutor.cs",
+              "DocumentMoniker": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Shared\\Models\\Empresa\\Tutor.cs",
+              "RelativeDocumentMoniker": "Dual.Shared\\Models\\Empresa\\Tutor.cs",
+              "ToolTip": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Shared\\Models\\Empresa\\Tutor.cs",
+              "RelativeToolTip": "Dual.Shared\\Models\\Empresa\\Tutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:51:58.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cicle.cs",
+              "DocumentMoniker": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Shared\\Models\\Empresa\\Cicle.cs",
+              "RelativeDocumentMoniker": "Dual.Shared\\Models\\Empresa\\Cicle.cs",
+              "ToolTip": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Shared\\Models\\Empresa\\Cicle.cs",
+              "RelativeToolTip": "Dual.Shared\\Models\\Empresa\\Cicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:51:53.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CiclesController.cs",
+              "DocumentMoniker": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Api\\Controllers\\CiclesController.cs",
+              "RelativeDocumentMoniker": "Dual.Api\\Controllers\\CiclesController.cs",
+              "ToolTip": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Api\\Controllers\\CiclesController.cs",
+              "RelativeToolTip": "Dual.Api\\Controllers\\CiclesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:51:45.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Dual.Api\\Program.cs",
+              "ToolTip": "D:\\Privat\\Programacio\\Git\\Dual\\Dual.Api\\Program.cs",
+              "RelativeToolTip": "Dual.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T08:06:00.835Z",
+              "EditorCaption": ""
             }
           ]
         }

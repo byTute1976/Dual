@@ -1,6 +1,6 @@
-﻿namespace Dual.Shared.Models;
+﻿namespace Dual.Shared.Models.Empresa;
 
-public partial class TCicle
+public class Cicle
 {
     public int Id { get; set; }
 
@@ -10,5 +10,5 @@ public partial class TCicle
 
     public string? Observacions { get; set; }
 
-    public virtual ICollection<TTutor> TTutors { get; set; } = new List<TTutor>();
+    public virtual ICollection<Tutor> Tutors { get; set; } = new List<Tutor>();
 }
